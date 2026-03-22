@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ליאל סקוושי מביאה לכם את חוויית הקנייה הכי משתלמת! מכירת מוצרים איכותיים במחיר אחיד של 3 שקלים בלבד. סקוושי זול לילדים ומבוגרים – כנסו עכשיו וחסכו!
+
+### אודות
+https://example.com/about
+רוצים לדעת איך ליאל סקוושי מצליחה למכור כל מוצר ב-3 שקלים בלבד? גלו את הסיפור שלנו, הערכים שמניעים אותנו והחזון שהפך אותנו לחנות הכי שווה בשכונה!
+
+### גלריה
+https://example.com/gallery
+גלריית המוצרים של ליאל סקוושי תגרום לכם לא להאמין למחירים! מאות פריטים צבעוניים ומגוונים, כולם במחיר אחיד של 3 שקלים. מכירת מוצרים שלא תמצאו בשום מקום אחר – התאהבו עכשיו!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על מכירת מוצרים ב-3 שקלים? רוצים להזמין כמויות לאירוע או למסיבת ילדים? צרו קשר עם ליאל סקוושי עכשיו ונשמח לעזור לכם למצוא את הסקוושי המושלם במחיר שלא ייאמן!
+
+### Products
+https://example.com/products
+המוצרים שלנו - ליאל סקוושי
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ליאל סקוושי
+
+### Category
+https://example.com/category/:slug
+מוצרים - ליאל סקוושי
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
